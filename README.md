@@ -48,7 +48,11 @@
 - ["Learn Design using Canva | Complete Playlist | In Nepali"](https://youtube.com/playlist?list=PL_sdpqhqy4cLhrFzo4NsPuwTsWItqkaY6)
 ---
 
+### Some Live Demo Projects
 
+- ["Youtube Clone 20 minutes challenge | 2021 Special"](https://anilk-panta.github.io/youtube-clone/)
+- ["CSS Peloader for atiscloud"](https://anilk-panta.github.io/atiscloud.github.io/)
+---
 
 [twitter]: https://twitter.com/anil_panta
 [youtube]: https://www.youtube.com/channel/UCTSUxyWiQVAr5UwJc1M_LEQ
