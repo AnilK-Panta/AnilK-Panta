@@ -45,6 +45,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
+- ["How to host website for free using GitHub"](https://youtu.be/XeN8fIfylZs)
 - ["Learn Design using Canva | Complete Playlist | In Nepali"](https://youtube.com/playlist?list=PL_sdpqhqy4cLhrFzo4NsPuwTsWItqkaY6)
 ---
 
