@@ -4,7 +4,7 @@
 
 -  I am about to complete my Engineering!
 -  I’m a frontend Web developer
--  2021 Goals: Learn backend development to be a fullstack developer
+-  2021 Goals: A fullstack developer
 <br />
 
 ### Connect with me:
@@ -52,6 +52,7 @@
 
 ### 💻 Some Live Demo Projects
 
+- ["Laptop Landing Page"](https://anilk-panta.github.io/laptop-ui/)
 - ["Youtube Clone 20 minutes challenge | 2021 Special"](https://anilk-panta.github.io/youtube-clone/)
 - ["CSS Peloader for atiscloud"](https://anilk-panta.github.io/atiscloud.github.io/)
 ---
