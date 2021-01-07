@@ -52,6 +52,7 @@
 
 ### 💻 Some Live Demo Projects
 
+- ["Simple Calculator | Neumorphic UI"](https://anilk-panta.github.io/calculator/)
 - ["Laptop Landing Page"](https://anilk-panta.github.io/laptop-ui/)
 - ["Youtube Clone 20 minutes challenge | 2021 Special"](https://anilk-panta.github.io/youtube-clone/)
 - ["CSS Peloader for atiscloud"](https://anilk-panta.github.io/atiscloud.github.io/)
