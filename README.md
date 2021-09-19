@@ -2,7 +2,7 @@
 
 ## I'm a Student, Learner and Developer!!
 
--  I am about to complete my Engineering!
+-  I am about to complete my Engineering.
 -  I’m a frontend Web developer
 -  2021 Goals: A fullstack developer
 <br />
