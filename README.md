@@ -4,8 +4,9 @@
 
 -  I am about to complete my Engineering.
 -  I’m a frontend Web developer
--  2021 Goals: A fullstack developer
 <br />
+
+https://github-readme-stats.vercel.app/api?username=anilK-panta
 
 ### Connect with me:
 
