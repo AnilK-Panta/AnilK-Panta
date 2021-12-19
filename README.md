@@ -5,7 +5,7 @@
 -  I am about to complete my Engineering.
 -  I’m a frontend Web developer
 
-<a href="https://github.com/AnilK-Panta/AnilK-Panta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anilK-panta" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilK-Panta&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a>
+<a href="https://github.com/AnilK-Panta/AnilK-Panta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnilK-Panta" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilK-Panta&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a>
 <br />
 
 
