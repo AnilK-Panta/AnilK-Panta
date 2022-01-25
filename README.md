@@ -6,7 +6,7 @@
 -  I’m a frontend Web developer
 
 
-[![Anil K's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilK-Panta&count_private=true&show_icons=true&repo=github-readme-stats)](https://github.com/AnilK-Panta/github-readme-stats)
+[![Anil K's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilK-Panta&hide=contribs,prs&count_private=true&show_icons=true&repo=github-readme-stats)](https://github.com/AnilK-Panta/AnilK-Panta)
 
 
 <a href="https://github.com/AnilK-Panta/AnilK-Panta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnilK-Panta" data-canonical-src="https://github-readme-stats.vercel.app/api?username=AnilK-Panta&amp;layout=compact&amp;count_private=true&amp;show_icons=trueline_height=21&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a>
