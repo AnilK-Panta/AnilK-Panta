@@ -6,7 +6,7 @@
 -  I’m a frontend Web developer
 
 
-`default` ![default][default] | `dark` ![dark][dark] | `radical` ![radical][radical]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/AnilK-Panta/AnilK-Panta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnilK-Panta" data-canonical-src="https://github-readme-stats.vercel.app/api?username=AnilK-Panta&amp;layout=compact&amp;count_private=true&amp;show_icons=trueline_height=21&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a>
