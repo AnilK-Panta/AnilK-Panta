@@ -6,7 +6,7 @@
 -  I’m a frontend Web developer
 
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2ce410f169ae5d60c8ba1f08a197310590a5c3213782fc59b17610a8a6f4fafa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b6173526f7564726126636f756e745f707269766174653d747275652673686f775f69636f6e733d747275656c696e655f6865696768743d32312662675f636f6c6f723d302c4543364336432c4646443437392c4646464337392c373346413739267468656d653d677261797768697465"><img align="center" src="https://camo.githubusercontent.com/2ce410f169ae5d60c8ba1f08a197310590a5c3213782fc59b17610a8a6f4fafa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b6173526f7564726126636f756e745f707269766174653d747275652673686f775f69636f6e733d747275656c696e655f6865696768743d32312662675f636f6c6f723d302c4543364336432c4646443437392c4646464337392c373346413739267468656d653d677261797768697465" data-canonical-src="https://github-readme-stats.vercel.app/api?username=KasRoudra&amp;count_private=true&amp;show_icons=trueline_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite" style="max-width: 100%;"></a>
+`default` ![default][default] | `dark` ![dark][dark] | `radical` ![radical][radical]
 
 
 <a href="https://github.com/AnilK-Panta/AnilK-Panta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnilK-Panta" data-canonical-src="https://github-readme-stats.vercel.app/api?username=AnilK-Panta&amp;layout=compact&amp;count_private=true&amp;show_icons=trueline_height=21&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a>
