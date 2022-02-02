@@ -9,7 +9,6 @@
 [![Anil K's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilk-panta&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AnilK-Panta/AnilK-Panta)
 
 
-![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anilk-panta)
 
 
 ### Connect with me:
@@ -46,6 +45,8 @@
 <br />
 <br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilK-Panta&layout=compact)](https://github.com/AnilK-Panta/github-readme-stats)
 
 <a href="https://github.com/AnilK-Panta/AnilK-Panta"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilK-Panta&langs_count=6" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilK-Panta&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a>
 
