@@ -9,6 +9,7 @@
 [![Anil K's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilk-panta&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AnilK-Panta/AnilK-Panta)
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 
 ### Connect with me:
