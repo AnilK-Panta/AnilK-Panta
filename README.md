@@ -46,9 +46,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilK-Panta&layout=compact)](https://github.com/AnilK-Panta/github-readme-stats)
-
-<a href="https://github.com/AnilK-Panta/AnilK-Panta"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilK-Panta&langs_count=6" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilK-Panta&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilK-Panta&layout=compact&theme=radical)](https://github.com/AnilK-Panta/github-readme-stats)
 
 ---
 
